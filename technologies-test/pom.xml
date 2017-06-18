@@ -3,4 +3,17 @@
   <groupId>fr.epita.sd</groupId>
   <artifactId>technology-tests</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  		<dependency>
+			<groupId>org.apache.derby</groupId>
+			<artifactId>derby</artifactId>
+			<version>10.13.1.1</version>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+		</dependency>
+  </dependencies>
 </project>

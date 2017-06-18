@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 19 01:42:26 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-bd96-0b41-000002f28f30 
+on database directory memory:G:\EPITA\STRUCTURED_DATA\MYCODE\Structured_data\technologies-test\IAM with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/C:/Users/Gervaise%20ALINA/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=G:\EPITA\STRUCTURED_DATA\MYCODE\Structured_data\technologies-test
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
