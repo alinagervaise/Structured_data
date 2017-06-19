@@ -34,6 +34,8 @@ import org.junit.Test;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
+import fr.epita.sd.services.XmlService;
+import fr.epita.sd.services.impl.XmlServiceImpl;
 import junit.framework.Assert;
 
 public class TestDatabase {
@@ -169,5 +171,9 @@ private ResultSet getStudents() {
 	return rs;
 }
    
- 
+ @Test
+ public void testXMLService(){
+	 XmlService service = new XmlServiceImpl();
+	 service.writeToXml();
+ }
 }
